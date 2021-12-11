@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86af082a-db4d-4d23-8eb6-db2b3f018d98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="part 3" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="part 3" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21YMDDBNmiY9MoR3FHoGD5bKb08" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/microservices/product-composite-service/src/main/java/ci/yes/springcloud/productcomposite/service" />
+      <recent name="$PROJECT_DIR$/microservices" />
+      <recent name="$PROJECT_DIR$/microservices/api/src/main/java/ci/yes/springcloud/core" />
+      <recent name="$PROJECT_DIR$/microservices/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/util/src/main/java/ci/yes/springcloud" />
+      <recent name="$PROJECT_DIR$/api/src/main/java/ci/yes/springcloud/api" />
+      <recent name="$PROJECT_DIR$/api/src/main/java/ci/yes/springcloud" />
+      <recent name="$PROJECT_DIR$/api/src/main/java/ci/yes.springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ci.yes.springcloud.recommendationservice.services" />
+      <recent name="ci.yes.springcloud.reviewservice.services" />
+      <recent name="ci.yes.springcloud.productservice.services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.part 3 [test]">
+    <configuration name="RecommendationServiceApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ci.yes.springcloud.recommendationservice.RecommendationServiceApplicationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":microservices:recommendation-service:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RecommendationServiceApplicationTests.getRecommendationsMissingParameter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ci.yes.springcloud.recommendationservice.RecommendationServiceApplicationTests.getRecommendationsMissingParameter&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":microservices:recommendation-service:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReviewServiceApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ci.yes.springcloud.reviewservice.ReviewServiceApplicationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":microservices:review-service:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReviewServiceApplicationTests.getReviewsMissingParameter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ci.yes.springcloud.reviewservice.ReviewServiceApplicationTests.getReviewsMissingParameter&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":microservices:review-service:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="part 3 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductCompositeServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.product-composite-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.springcloud.productcomposite.ProductCompositeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCompositeServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.product-composite-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.composite.product.ProductCompositeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCompositeServiceApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ModularDockerizedSpringProject.microservices.product-composite-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.composite.product.ProductCompositeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCompositeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.product-composite-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yeo.springcloud.productcompositeservice.ProductCompositeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.product-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.product.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ModularDockerizedSpringProject.microservices.product-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.product.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.product-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.springcloud.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendationServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.recommendation-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.springcloud.recommendationservice.RecommendationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendationServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.recommendation-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.recommendation.RecommendationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendationServiceApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ModularDockerizedSpringProject.microservices.recommendation-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.recommendation.RecommendationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.recommendation-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yeo.springcloud.recommendationservice.RecommendationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.review-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.review.ReviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ModularDockerizedSpringProject.microservices.review-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.microservices.core.review.ReviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="part_3.microservices.review-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ci.yes.springcloud.reviewservice.ReviewServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.part 3 [test]" />
+        <item itemvalue="Gradle.RecommendationServiceApplicationTests" />
+        <item itemvalue="Gradle.RecommendationServiceApplicationTests.getRecommendationsMissingParameter" />
+        <item itemvalue="Gradle.ReviewServiceApplicationTests.getReviewsMissingParameter" />
+        <item itemvalue="Gradle.ReviewServiceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86af082a-db4d-4d23-8eb6-db2b3f018d98" name="Default Changelist" comment="" />
+      <created>1638113445749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638113445749</updated>
+      <workItem from="1638113446915" duration="1000000" />
+      <workItem from="1638114478133" duration="832000" />
+      <workItem from="1638227090513" duration="1703000" />
+      <workItem from="1638315919225" duration="2468000" />
+      <workItem from="1638484016523" duration="2593000" />
+      <workItem from="1638618242197" duration="19564000" />
+      <workItem from="1639103170882" duration="832000" />
+      <workItem from="1639181887575" duration="1816000" />
+      <workItem from="1639216618613" duration="5161000" />
+      <workItem from="1639225924759" duration="918000" />
+      <workItem from="1639235324741" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
