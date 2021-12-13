@@ -4,7 +4,7 @@ server.error.include-message: always
 logging:
   level:
     root: INFO
-    se.magnus: DEBUG
+    ci.yes: DEBUG
 
 ---
 spring.config.activate.on-profile: docker

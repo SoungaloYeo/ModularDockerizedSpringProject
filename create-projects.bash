@@ -9,7 +9,7 @@ spring init \
 --java-version=11 \
 --packaging=jar \
 --name=product-service \
---package-name=se.magnus.microservices.core.product \
+--package-name=ci.yes.microservices.core.product \
 --groupId=se.magnus.microservices.core.product \
 --dependencies=actuator,webflux \
 --version=1.0.0-SNAPSHOT \
@@ -21,7 +21,7 @@ spring init \
 --java-version=11 \
 --packaging=jar \
 --name=review-service \
---package-name=se.magnus.microservices.core.review \
+--package-name=ci.yes.microservices.core.review \
 --groupId=se.magnus.microservices.core.review \
 --dependencies=actuator,webflux \
 --version=1.0.0-SNAPSHOT \
@@ -33,7 +33,7 @@ spring init \
 --java-version=11 \
 --packaging=jar \
 --name=recommendation-service \
---package-name=se.magnus.microservices.core.recommendation \
+--package-name=ci.yes.microservices.core.recommendation \
 --groupId=se.magnus.microservices.core.recommendation \
 --dependencies=actuator,webflux \
 --version=1.0.0-SNAPSHOT \
@@ -46,7 +46,7 @@ spring init \
 --packaging=jar \
 --name=product-composite-service \
 --package-name=se.magnus.microservices.composite.product \
---groupId=se.magnus.microservices.composite.product \
+--groupId=ci.yes.microservices.composite.product \
 --dependencies=actuator,webflux \
 --version=1.0.0-SNAPSHOT \
 product-composite-service
